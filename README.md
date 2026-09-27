@@ -1,1 +1,1 @@
-# galactus-schmidt-docs
+# Riva-Bot-docs
