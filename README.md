@@ -1,4 +1,3 @@
-# Riva-Bot-docs
 <p align="center">
   <img src="banner.png" alt="Рива — Discord-бот для музыки, игр и дзени" width="680">
 </p>
