@@ -4,3 +4,4 @@
 .feature-icons{display:flex;gap:10px;align-items:center;margin-bottom:20px;min-height:64px}.feature-icons img{width:64px;height:64px;object-fit:contain;border-radius:8px}.notice-icon{float:left;margin:0 16px 10px 0;border-radius:6px}.notice:after{content:"";display:block;clear:both}.hero-art>img{aspect-ratio:1/1;object-fit:contain}
 
 .command-grid .small{font-size:13px;color:var(--muted);margin-top:18px}.command-grid+p.small{font-size:13px;color:var(--muted);margin-top:28px}
+.voice-mode{margin-top:32px;padding-top:24px;border-top:1px solid #5b6d66;max-width:900px}.voice-mode h3{font-size:18px;margin:0 0 12px}.voice-mode p{font-size:14px;color:#ced5ca;margin-bottom:12px}.voice-mode p:last-child{margin-bottom:0}.voice-mode code{color:#ffbd94}.section>p.small{font-size:13px;color:var(--muted);max-width:970px}.footer>div:first-child{flex-shrink:0}
